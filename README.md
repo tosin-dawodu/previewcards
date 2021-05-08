@@ -1,4 +1,4 @@
-[https://tosin-dawodu.github.io/previewcards/](preview cards)
+(https://tosin-dawodu.github.io/previewcards/)[preview cards]
 
 # Frontend Mentor - 3-column preview card component
 
